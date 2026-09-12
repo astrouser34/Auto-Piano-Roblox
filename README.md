@@ -1,4 +1,4 @@
-# AutoPiano en Debian y Ubuntu
+# AutoPiano en Debian y Ubuntu (También Windows(7/10/11))
 
 La version Linux esta en `autopiano.py`. El archivo original `autopiano` sigue siendo la version AutoHotkey para Windows.
 
