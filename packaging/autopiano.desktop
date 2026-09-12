@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=AutoPiano
+Comment=Reproductor de partituras para teclado
+Exec=AutoPiano
+Icon=autopiano
+Terminal=false
+Categories=AudioVideo;Utility;
