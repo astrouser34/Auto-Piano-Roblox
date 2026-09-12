@@ -1,9 +1,0 @@
-Package: autopiano
-Version: @VERSION@
-Section: sound
-Priority: optional
-Architecture: @ARCH@
-Depends: python3 (>= 3.10), python3-tk, python3-pyautogui, python3-pynput
-Maintainer: AutoPiano
-Description: Reproductor de partituras para teclado
- AutoPiano reproduce partituras y acordes con atajos globales F5-F8.
